@@ -1,22 +1,19 @@
 public class Item {
     private String name;
     private int sku;
+    private int price;
 
-    public Item (String name, int sku) {
+    public Item (String name, int sku, int price) {
         this.name = name;
         this.sku = sku;
+        this.price = price;
     }
 
     public String getName() {
         return name;
     }
     
-    public int findPrice() {
-        for (int i = 0; i < sku; i ++) {
-            if (sku == i) {
-                int price = sku * 100;
-            }
-        }
+    public int getPrice() {
         return price;
     }
 }
