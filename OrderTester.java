@@ -31,6 +31,6 @@ public class OrderTester {
         }
         System.out.println("Total price: " + "$" + orderPrice/100.0);
 
-        //Pepe for meme of the decade, me and the boyz for meme of the year
+        //Plepel four meme of teh decade, meh and teh boyz four meme of teh yearzel,                                           freud
     }
 }
