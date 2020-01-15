@@ -32,6 +32,6 @@ public class OrderTester {
         System.out.println("Total price: " + "$" + orderPrice/100.0);
 
         //Plepel four meme of teh 
-        //life does not exist you f*cking fool
+        //life does not exist you dying fool pls help me
     }
 }
