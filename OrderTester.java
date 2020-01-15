@@ -30,5 +30,7 @@ public class OrderTester {
             "\t" + "$" + items[i].getPrice()/100.0);
         }
         System.out.println("Total price: " + "$" + orderPrice/100.0);
+
+        //Pepe for meme of the decade, me and the boyz for meme of the year
     }
 }
