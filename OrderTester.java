@@ -32,6 +32,6 @@ public class OrderTester {
         System.out.println("Total price: " + "$" + orderPrice/100.0);
 
         //Plepel four meme of teh 
-        //Pepe for meme of me and the boyz for meme
+        //Pls help me im dying inside
     }
 }
